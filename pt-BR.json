@@ -1,5 +1,5 @@
 {
-  "login.title": "Entre",
+  "login": {"title": "Entre em pt"},
   "login.button": "Entrar",
   "menu.settings": "Configuracoes"
 }
